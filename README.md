@@ -1,4 +1,4 @@
-Here is a detailed `README.md` file for your "K-mean_Clustering-" GitHub repository:
+
 
 ---
 
